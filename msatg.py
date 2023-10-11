@@ -12,7 +12,7 @@ def open_docx(fname):
 
 # preferences
 NAME = 'Nic Bolton'
-STUDENT_ID = '110034690'
+STUDENT_ID = '11111111'
 FORCE_CAPITALIZE = True
 FONT = 'Times New Roman'
 FONT_SIZE = 12
