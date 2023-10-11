@@ -7,7 +7,7 @@ CL tool for quickly creating a Word document with some input parameters
 3. Run `pip install -r requirements.txt`
 4. Run `python msatg.py`
 
-See below for running `msatg` anywhere:
+# For running `msatg` anywhere:
 
 ## Windows
 1. Follow steps 1-2 above
@@ -15,3 +15,7 @@ See below for running `msatg` anywhere:
 3. Use anywhere with `msatg`
 
 ## Mac/Linux
+1. Follow steps 1-2 above
+2. run `chmod +x msh.sh`
+3. run `./msh.sh`
+4. Use anywhere with `msatg`
